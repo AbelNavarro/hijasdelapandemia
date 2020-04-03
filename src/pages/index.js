@@ -8,7 +8,6 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Hijas de la Pandemia" />
-    <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
