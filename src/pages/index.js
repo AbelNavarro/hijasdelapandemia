@@ -9,10 +9,6 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Hijas de la Pandemia" />
     <h1>Hijas de la Pandemia</h1>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
 
